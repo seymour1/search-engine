@@ -1,0 +1,3 @@
+#!/bin/bash
+javac -d . hw3/InvertedIndex.java
+java hw3.InvertedIndex $1 $2
